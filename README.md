@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for practicing purpose
+I used React, Styled Components to build it 
+
+I did not create the Design for the landing Page, I just take it from this awesome guy called AR Shakir and convert it to code
+https://dribbble.com/arshakir
+
+feel free to use the code for any purpose.
+
+### NOTE: I did not take much care of responsivness, because I was focusing on React and it's functionality
+
 
 ## Available Scripts
 
